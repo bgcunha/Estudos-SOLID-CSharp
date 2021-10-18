@@ -1,0 +1,24 @@
+C:\Users\brunocunha\Documents\Visual Studio 2019\Estudos\SOLID\SOLID\bin\Debug\netcoreapp2.1\SOLID.deps.json
+C:\Users\brunocunha\Documents\Visual Studio 2019\Estudos\SOLID\SOLID\bin\Debug\netcoreapp2.1\SOLID.runtimeconfig.json
+C:\Users\brunocunha\Documents\Visual Studio 2019\Estudos\SOLID\SOLID\bin\Debug\netcoreapp2.1\SOLID.runtimeconfig.dev.json
+C:\Users\brunocunha\Documents\Visual Studio 2019\Estudos\SOLID\SOLID\bin\Debug\netcoreapp2.1\SOLID.dll
+C:\Users\brunocunha\Documents\Visual Studio 2019\Estudos\SOLID\SOLID\bin\Debug\netcoreapp2.1\SOLID.pdb
+C:\Users\brunocunha\Documents\Visual Studio 2019\Estudos\SOLID\SOLID\obj\Debug\netcoreapp2.1\SOLID.csprojAssemblyReference.cache
+C:\Users\brunocunha\Documents\Visual Studio 2019\Estudos\SOLID\SOLID\obj\Debug\netcoreapp2.1\SOLID.AssemblyInfoInputs.cache
+C:\Users\brunocunha\Documents\Visual Studio 2019\Estudos\SOLID\SOLID\obj\Debug\netcoreapp2.1\SOLID.AssemblyInfo.cs
+C:\Users\brunocunha\Documents\Visual Studio 2019\Estudos\SOLID\SOLID\obj\Debug\netcoreapp2.1\SOLID.csproj.CoreCompileInputs.cache
+C:\Users\brunocunha\Documents\Visual Studio 2019\Estudos\SOLID\SOLID\obj\Debug\netcoreapp2.1\SOLID.dll
+C:\Users\brunocunha\Documents\Visual Studio 2019\Estudos\SOLID\SOLID\obj\Debug\netcoreapp2.1\SOLID.pdb
+C:\Users\brunocunha\Documents\Visual Studio 2019\Estudos\SOLID\SOLID\obj\Debug\netcoreapp2.1\SOLID.genruntimeconfig.cache
+C:\Users\Casa\Documents\Estudos\CSharp\Diversos\SOLID\SOLID\bin\Debug\netcoreapp2.1\SOLID.deps.json
+C:\Users\Casa\Documents\Estudos\CSharp\Diversos\SOLID\SOLID\bin\Debug\netcoreapp2.1\SOLID.runtimeconfig.json
+C:\Users\Casa\Documents\Estudos\CSharp\Diversos\SOLID\SOLID\bin\Debug\netcoreapp2.1\SOLID.runtimeconfig.dev.json
+C:\Users\Casa\Documents\Estudos\CSharp\Diversos\SOLID\SOLID\bin\Debug\netcoreapp2.1\SOLID.dll
+C:\Users\Casa\Documents\Estudos\CSharp\Diversos\SOLID\SOLID\bin\Debug\netcoreapp2.1\SOLID.pdb
+C:\Users\Casa\Documents\Estudos\CSharp\Diversos\SOLID\SOLID\obj\Debug\netcoreapp2.1\SOLID.csproj.AssemblyReference.cache
+C:\Users\Casa\Documents\Estudos\CSharp\Diversos\SOLID\SOLID\obj\Debug\netcoreapp2.1\SOLID.AssemblyInfoInputs.cache
+C:\Users\Casa\Documents\Estudos\CSharp\Diversos\SOLID\SOLID\obj\Debug\netcoreapp2.1\SOLID.AssemblyInfo.cs
+C:\Users\Casa\Documents\Estudos\CSharp\Diversos\SOLID\SOLID\obj\Debug\netcoreapp2.1\SOLID.csproj.CoreCompileInputs.cache
+C:\Users\Casa\Documents\Estudos\CSharp\Diversos\SOLID\SOLID\obj\Debug\netcoreapp2.1\SOLID.dll
+C:\Users\Casa\Documents\Estudos\CSharp\Diversos\SOLID\SOLID\obj\Debug\netcoreapp2.1\SOLID.pdb
+C:\Users\Casa\Documents\Estudos\CSharp\Diversos\SOLID\SOLID\obj\Debug\netcoreapp2.1\SOLID.genruntimeconfig.cache
